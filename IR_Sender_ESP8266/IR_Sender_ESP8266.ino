@@ -70,11 +70,11 @@ void loop(){
 
 //Initialisiere Keys
 void initKeys(){
-  wifi_ssid = "Obi Wlan Kenobi";
-  wifi_password = "#19-Nortestosteron";
-  mqtt_server = "192.168.0.4";
-  mqtt_user = "mqtt-user";         
-  mqtt_password = "FliegenFutter66";
+  wifi_ssid = "<SSID>";
+  wifi_password = "<Password>";
+  mqtt_server = "<IP>";
+  mqtt_user = "<User>";         
+  mqtt_password = "<Password>";
   ESPHostname = "ESP8266_IRremote";
 }
 
